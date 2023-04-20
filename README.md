@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+
+My name is Andrea and I'm a Data Analyst 📈 <br />
+I found an excuse to play with GitHub actions...
 
 <!--
 **a-sofia/a-sofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
